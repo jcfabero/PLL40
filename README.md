@@ -1,7 +1,7 @@
 # PLL40
 Colección para IceStudio con las primitivas SB_PLL40.
 
-Los parámetros para el PLL se puede obtener con la utilidad `icepll` de `IceStudio`. Por ejemplo:
+Los parámetros para el PLL se puede obtener con la utilidad `icepll` de `IceStorm`. Por ejemplo:
 
 ```
 $ icepll -i 12 -o 60

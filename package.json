@@ -1,0 +1,18 @@
+{
+  "name": "PLL40",
+  "version": "0.9.0",
+  "description": "Colección para uso de primitivas SB_PLL40* en IceStudio",
+  "keywords": "PLL SB_PLL40 IceStudio Lattice Ice40",
+  "license": "GPL-3.0",
+  "authors": [{
+    "name": "Juan Carlos Fabero",
+    "email": "jcfabero@ucm.es",
+    "url": ""
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "main",
+    "url": "https://github.com/jcfabero/PLL40"
+  }
+}
